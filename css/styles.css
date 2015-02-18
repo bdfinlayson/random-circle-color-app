@@ -13,6 +13,7 @@ body {
   color: #8d9aa5;
 }
 
+
 a {
   color: #3f8aBf;
   text-decoration: none;
@@ -115,3 +116,6 @@ li {
 span {
   color: red;
 }
+
+h6 {
+  width: 100%}
